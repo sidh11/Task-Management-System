@@ -1,2 +1,2 @@
 # Task-Management-System
-Creating microservice fo task management system
+Creating microservice for task management system
